@@ -12,7 +12,7 @@
 
 **当前版本：2.4.1**
 
-[下载 Windows 安装包](https://github.com/l752266190/ai-girls-desktop-pet/releases/download/v2.4.1/AI娘桌宠-Setup-2.4.1-x64.exe) · [版本说明与校验文件](https://github.com/l752266190/ai-girls-desktop-pet/releases/tag/v2.4.1)
+[下载 Windows 安装包](https://github.com/l752266190/ai-girls-desktop-pet/releases/download/v2.4.1/AI-Girls-Pet-Setup-2.4.1-x64.exe) · [版本说明与校验文件](https://github.com/l752266190/ai-girls-desktop-pet/releases/tag/v2.4.1)
 
 下载 `.exe` 后双击安装。安装包未做代码签名，Windows 可能显示未知发布者；请核对本仓库发布地址及 SHA256。
 
